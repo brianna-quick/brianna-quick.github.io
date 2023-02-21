@@ -130,7 +130,7 @@ body {
 .navbar-nav > li > a,
 .btn,
 .intro p {
-    font-family: 'Roboto Slab', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 a {
@@ -150,7 +150,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Roboto Slab', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: normal;
     position: relative;
     letter-spacing: -0.5px;
