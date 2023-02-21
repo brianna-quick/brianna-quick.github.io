@@ -120,7 +120,7 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.80857;
     padding: 0;
-    background-color: #e4d0e;
+    background-color: #e4d0e5;
 }
 
 .navbar-brand,
@@ -1568,7 +1568,7 @@ mark,
 .btn-primary {
     color: #1f1f1f !important;
     background-color: #fff !important;
-    border-color: #fff !important;
+    border-color: #e4d0e5 !important;
 }
 
 .copyrights .fa-angle-up:hover,
