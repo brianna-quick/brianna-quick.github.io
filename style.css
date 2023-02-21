@@ -1108,7 +1108,7 @@ a img.aligncenter {
     opacity: 1 !important;
     visibility: visible;
     font-weight: bold !important;
-    color: #fff;
+    color: #e4d0e5;
     position: relative;
     margin: 0;
     padding: 0;
@@ -1734,13 +1734,13 @@ hr.invis1 {
 }
 
 .footer a {
-    color: #ffffff;
+    color: #e4d0e5;
 }
 
 .copyrights {
     padding: 45px 0;
     border-top: 1px solid #eee;
-    background-color: #ffffff;
+    background-color: #e4d0e5;
 }
 
 .da-thumbs .pitem a div h3 small,
