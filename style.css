@@ -1566,17 +1566,17 @@ mark,
 .pagination > li.active a,
 .pagination > li:hover span,
 .btn-primary {
-    color: #1f1f1f !important;
-    background-color: #fff !important;
-    border-color: #ffff00 !important;
+    color: #fff !important;
+    background-color: #1f1f1f !important;
+    border-color: #1f1f1f !important;
 }
 
 .copyrights .fa-angle-up:hover,
 .btn-primary:focus,
 .btn-primary:hover {
-    color: #fff !important;
-    background-color: #1f1f1f !important;
-    border-color: #1f1f1f !important;
+    color: #1f1f1f !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
 }
 
 .blog-read,
