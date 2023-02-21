@@ -120,7 +120,7 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.80857;
     padding: 0;
-    background-color: #e4d0e5;
+    background-color: #e4d0e;
 }
 
 .navbar-brand,
@@ -1567,14 +1567,14 @@ mark,
 .pagination > li:hover span,
 .btn-primary {
     color: #1f1f1f !important;
-    background-color: #fff !important;
-    border-color: #e4d0e5 !important;
+    background-color: #ffb001 !important;
+    border-color: #ffb001 !important;
 }
 
 .copyrights .fa-angle-up:hover,
 .btn-primary:focus,
 .btn-primary:hover {
-    color: #fff !important;
+    color: #ffb001 !important;
     background-color: #1f1f1f !important;
     border-color: #1f1f1f !important;
 }
@@ -1584,7 +1584,7 @@ mark,
 .intro a,
 .dropdown-menu > li:hover a,
 .dropdown-menu > li:focus a {
-    color: #fff !important;
+    color: #ffb001 !important;
 }
 
 .contact-widget a,
@@ -1599,7 +1599,7 @@ mark,
 .navbar-nav > li:focus a,
 a:hover,
 a:focus {
-    color: #e4d0e5;
+    color: #ffb001;
 }
 
 
