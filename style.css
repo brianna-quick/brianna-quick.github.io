@@ -697,97 +697,13 @@ a img.aligncenter {
     text-decoration: underline !important;
 }
 
-
 /*------------------------------------------------------------------
     6. BLOG
 -------------------------------------------------------------------*/
 
-
-.panel,
-.panel-body,
-.panel-info {
-    box-shadow: none !important;
-    border: 0 !important;
-    padding: 0 !important;
-    background-color: transparent !important;
-}
-
-
-.contact_form.comment-form .form-control {
-    border: 1px solid #eee !important;
-    height: 40px;
-}
-
-
-.tags {
-    border-top: 1px solid #eee;
-    padding-top: 20px;
-    margin-top: 20px;
-    display: block;
-}
-
-.tags a {
-    margin-right: 10px;
-}
-
-.tags a,
-
-
-
 /*------------------------------------------------------------------
     7. SIDEBAR
 -------------------------------------------------------------------*/
-
-.sidebar ul {
-    list-style: none;
-    padding: 0;
-}
-
-.sidebar .form-control {
-    box-shadow: none;
-    border: 0;
-    height: 50px;
-}
-
-.sidebar .widget {
-    display: block;
-    position: relative;
-    margin-bottom: 40px;
-}
-
-.sidebar .widget-title {
-    display: block;
-    margin-bottom: 30px;
-}
-
-.sidebar .widget-title h3 {
-    color: #1f1f1f;
-    padding: 0;
-    margin: 0;
-    font-weight: bold;
-    font-size: 21px;
-}
-
-.related-posts .entry p {
-    margin-bottom: 0;
-    padding: 0;
-    font-weight: 700;
-    line-height: 1.6;
-}
-
-.related-posts .entry {
-    border-bottom: 1px dashed #ededed;
-    margin-bottom: 10px;
-    padding: 0 10px 10px 0 !important;
-    display: block;
-}
-
-.related-posts .entry:last-child {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-    border-bottom: 0;
-}
-
 
 /*------------------------------------------------------------------
     8. PORTFOLIO
@@ -1209,63 +1125,9 @@ a img.aligncenter {
     text-decoration: none;
 }
 
-
 /*------------------------------------------------------------------
     9. SHOP
 -------------------------------------------------------------------*/
-
-.cart-body .fa-close,
-.cart-body h4,
-.cart-body h6 {
-    font-size: 18px;
-    margin: 25px 0 10px;
-    padding: 0;
-    text-transform: capitalize;
-}
-
-.cart-body .fa-close {
-    margin-top: 27px;
-}
-
-.cart-body .panel {
-    border: 1px solid #ededed;
-}
-
-.cart-body .panel img {
-    margin: 0;
-    width: 100%;
-    display: block;
-    text-align: center;
-}
-
-.cart-body .dropdown-menu > li > a {
-    background-color: transparent !important;
-}
-
-.cart-body .btn {
-    margin-top: 0;
-}
-
-.cart-body .btn-default:hover,
-.cart-body .btn-default:focus,
-.cart-body .btn-group.open .dropdown-toggle,
-.cart-body .btn-default {
-    background-color: transparent;
-    border-color: transparent;
-    box-shadow: none !important;
-    padding: 14px 20px !important;
-}
-
-.cart-body .panel-info > .panel-heading {
-    background-color: #f2f2f2;
-    border: 1px solid #eee;
-    padding: 20px;
-    font-size: 16px;
-    color: #18293b;
-    margin-bottom: 30px;
-    text-transform: capitalize;
-}
-
 
 /*------------------------------------------------------------------
     10. WIDGETS
