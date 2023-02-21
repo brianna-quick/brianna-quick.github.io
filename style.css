@@ -619,7 +619,7 @@ a img.aligncenter {
     display: block;
     position: relative;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #e4d0e5;
     padding: 90px 0;
 }
 
@@ -628,7 +628,7 @@ a img.aligncenter {
 }
 
 .section.lb {
-    background-color: #f2f2f2;
+    background-color: #e4d0e5;
 }
 
 .section.wb {
