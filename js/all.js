@@ -52,7 +52,7 @@ wow.init();
 
 $(function(){
   $(".element").typed({
-    strings: ["London", "Berlin", "Roma", "Paris"],
+    strings: ["Brianna Quick"],
     typeSpeed: 300
   });
 });
