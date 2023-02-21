@@ -459,7 +459,7 @@ a img.aligncenter {
 }
 
 .navbar-nav > li.social-link a {
-    color: #ffffff !important;
+    color: #e4d0e5 !important;
 }
 
 .portfolio-share .facebook a,
@@ -543,7 +543,7 @@ a img.aligncenter {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:focus,
 .navbar-default .navbar-nav > .open > a:hover {
-    background-color: #ffffff;
+    background-color: #e4d0e5;
     border: 0 !important
 }
 
@@ -628,7 +628,7 @@ a img.aligncenter {
 }
 
 .section.lb {
-    background-color: #e4d0e5;
+    background-color: #fff;
 }
 
 .section.wb {
@@ -1100,7 +1100,7 @@ a img.aligncenter {
     position: relative;
     display: block;
     padding: 20px 0 10px;
-    background-color: #fff;
+    background-color: #e4d0e5;
 }
 
 .pdesc h4 {
