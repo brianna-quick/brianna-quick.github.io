@@ -628,6 +628,8 @@ a img.aligncenter {
 }
 
 .section.lb {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
     background-color: #fff;
 }
 
