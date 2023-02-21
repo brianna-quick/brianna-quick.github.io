@@ -871,7 +871,7 @@ a img.aligncenter {
 .portfolio-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
-    border: 2px solid #ffff00 !important;
+    border: 0 solid #ffff00 !important;
     border-radius: 0;
     padding: 5px 20px;
     color: #1f1f1f !important;
