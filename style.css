@@ -150,7 +150,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: normal;
     position: relative;
     letter-spacing: -0.5px;
