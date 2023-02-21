@@ -1567,14 +1567,14 @@ mark,
 .pagination > li:hover span,
 .btn-primary {
     color: #1f1f1f !important;
-    background-color: #ffb001 !important;
-    border-color: #ffb001 !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
 }
 
 .copyrights .fa-angle-up:hover,
 .btn-primary:focus,
 .btn-primary:hover {
-    color: #ffb001 !important;
+    color: #fff !important;
     background-color: #1f1f1f !important;
     border-color: #1f1f1f !important;
 }
@@ -1584,7 +1584,7 @@ mark,
 .intro a,
 .dropdown-menu > li:hover a,
 .dropdown-menu > li:focus a {
-    color: #ffb001 !important;
+    color: #fff !important;
 }
 
 .contact-widget a,
