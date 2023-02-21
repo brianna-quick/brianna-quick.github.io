@@ -464,12 +464,12 @@ a img.aligncenter {
 
 .portfolio-share .linkedin a,
 .social-link.linkedin a {
-    background-color: #3b5998 !important;
+    background-color: #0072b1 !important;
 }
 
 .portfolio-share .instagram a,
 .social-link.instagram a {
-    background-color: #1da1f2 !important;
+    background-color: #000 !important;
 }
 
 .portfolio-share .google-plus a,
@@ -479,7 +479,7 @@ a img.aligncenter {
 
 .portfolio-share .behance a,
 .social-link.behance a {
-    background-color: #bd081c !important
+    background-color: #053eff !important
 }
 
 .social-link.dribbble a {
