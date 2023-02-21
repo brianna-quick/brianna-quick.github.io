@@ -120,7 +120,7 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.80857;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #e4d0e;
 }
 
 .navbar-brand,
@@ -634,6 +634,7 @@ a img.aligncenter {
 .section.wb {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
+
 }
 
 .section.db {
