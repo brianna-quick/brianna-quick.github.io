@@ -1300,6 +1300,11 @@ hr.invis1 {
     border: 0;
 }
 
+hr.invis2 {
+    margin: 15px 0;
+    border: 0;
+}
+
 .text-widget {
     display: block;
     position: relative;
